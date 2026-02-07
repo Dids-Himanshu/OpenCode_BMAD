@@ -163,7 +163,7 @@ OpenCode supports multiple AI providers:
 - [OpenCode GitHub](https://github.com/anomalyco/opencode)
 - [OpenCode Discord Community](https://opencode.ai/discord)
 ## Inspiration 
- - BMAD (https://github.com/bmad-code-org/BMAD-METHOD?tab=readme-ov-file)
+ - [BMAD] (https://github.com/bmad-code-org/BMAD-METHOD?tab=readme-ov-file)
 ## 📄 License
 
 MIT License - See [LICENSE](LICENSE) for details.
